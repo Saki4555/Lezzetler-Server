@@ -1,13 +1,14 @@
 [
     {
         "id": 1,
-        "chef_picture": "https://example.com/cznburak.jpg",
+        "chef_picture": "https://i.ibb.co/48N16fm/Chef-Burak-for-CZN-Burak-Gurme-scaled.jpg",
         "chef_name": "CZN Burak",
         "years_of_experience": 10,
         "num_recipes": 250,
         "likes": 1500000,
         "recipes": [
             {
+                "recipe_id": 10,
                 "recipe_name": "Kunefe",
                 "ingredients": [
                     "1 package of kunefe dough",
@@ -21,6 +22,7 @@
                 "rating": 4.7
             },
             {
+                "recipe_id": 11,
                 "recipe_name": "Pesto Pasta",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -36,6 +38,7 @@
                 "rating": 4.8
             },
             {
+                "recipe_id": 12,
                 "recipe_name": "Şakşuka",
                 "ingredients": [
                     "2 large eggplants",
@@ -53,6 +56,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 13,
                 "recipe_name": "Beyti Kebabı",
                 "ingredients": [
                     "1 pound ground lamb",
@@ -73,13 +77,14 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://example.com/saltbae.jpg",
+        "chef_picture": "https://i.ibb.co/z8zVpgL/turkish-restaurateur-nusret-gokce-aka-salt-bae-arrives-for-news-photo-1682629925.jpg",
         "chef_name": "Salt Bae",
         "years_of_experience": 12,
         "num_recipes": 200,
         "likes": 2500000,
         "recipes": [
             {
+                "recipe_id": 20,
                 "recipe_name": "Tomahawk Steak",
                 "ingredients": [
                     "1 Tomahawk Steak (2-3 lbs)",
@@ -94,6 +99,7 @@
                 "rating": 4.8
             },
             {
+                "recipe_id": 21,
                 "recipe_name": "Ottoman Steak",
                 "ingredients": [
                     "2 lb beef tenderloin",
@@ -110,6 +116,7 @@
                 "rating": 4.7
             },
             {
+                "recipe_id": 22,
                 "recipe_name": "Salt Bae Burger",
                 "ingredients": [
                     "1 lb ground beef",
@@ -131,6 +138,7 @@
                 "rating": 4.6
             },
             {
+                "recipe_id": 23,
                 "recipe_name": "Grilled Lamb Chops",
                 "ingredients": [
                     "6-8 lamb chops",
@@ -148,13 +156,14 @@
     },
     {
         "id": 3,
-        "chef_picture": "https://example.com/fatihtutak.jpg",
+        "chef_picture": "https://i.ibb.co/PxfZ9X9/download-1.jpg",
         "chef_name": "Fatih Tutak",
         "years_of_experience": 15,
         "num_recipes": 300,
         "likes": 800000,
         "recipes": [
             {
+                "recipe_id": 30,
                 "recipe_name": "Lahmacun",
                 "ingredients": [
                     "1 pound ground lamb",
@@ -172,6 +181,7 @@
                 "rating": 4.8
             },
             {
+                "recipe_id": 31,
                 "recipe_name": "Ispanaklı Börek",
                 "ingredients": [
                     "1 package phyllo dough",
@@ -188,6 +198,7 @@
                 "rating": 4.6
             },
             {
+                "recipe_id": 32,
                 "recipe_name": "Mercimek Çorbası",
                 "ingredients": [
                     "1 cup red lentils",
@@ -204,6 +215,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 33,
                 "recipe_name": "Karides Güveç Börek",
                 "ingredients": [
                     "1 package phyllo dough",
@@ -225,13 +237,14 @@
     },
     {
         "id": 4,
-        "chef_picture": "https://example.com/aslihankoruyansabanci.jpg",
+        "chef_picture": "https://i.ibb.co/GFfSVc1/download-2.jpg",
         "chef_name": "Aslıhan Koruyan Sabancı",
         "years_of_experience": 20,
         "num_recipes": 150,
         "likes": 1200000,
         "recipes": [
             {
+                "recipe_id": 40,
                 "recipe_name": "Balık Ekmek",
                 "ingredients": [
                     "1/2 lb fresh fish fillets (such as sea bass, sea bream, or mackerel)",
@@ -249,6 +262,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 41,
                 "recipe_name": "Pide",
                 "ingredients": [
                     "1 pound pizza dough",
@@ -266,6 +280,7 @@
                 "rating": 4.3
             },
             {
+                "recipe_id": 42,
                 "recipe_name": "Şakşuka",
                 "ingredients": [
                     "2 medium eggplants, peeled and diced",
@@ -281,18 +296,38 @@
                 ],
                 "cooking_method": "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat. Add eggplants and zucchinis, and cook for 10-12 minutes or until softened and lightly browned. Remove from the skillet and set aside. Add onion and red bell pepper to the same skillet, and cook for 5-7 minutes or until softened. Add minced garlic and cook for 1-2 minutes or until fragrant. Stir in diced tomatoes, tomato paste, paprika, cumin, and red pepper flakes. Return the eggplants and zuc",
                 "rating": 4.1
+            },
+            {
+                "recipe_id": 43,
+                "recipe_name": "Beyti Kebabı",
+                "ingredients": [
+                    "1 pound ground lamb",
+                    "1 onion, grated",
+                    "2 cloves garlic, minced",
+                    "1/2 cup bread crumbs",
+                    "2 tbsp butter, melted",
+                    "1 tbsp paprika",
+                    "1 tsp cumin",
+                    "Salt and pepper to taste",
+                    "Flatbread or lavash bread",
+                    "Tomato sauce, yogurt, and parsley for serving"
+                ],
+                "cooking_method": "In a large bowl, mix together the ground lamb, grated onion, minced garlic, bread crumbs, melted butter, paprika, cumin, salt, and pepper. Knead well with your hands for 5-10 minutes. Divide the mixture into long cylinders, about 6-8 inches long. Preheat your grill or oven to 400°F. Grill or bake the kebabs for 8-10 minutes, or until cooked through. Serve hot with flatbread or lavash bread, tomato sauce, yogurt, and parsley.",
+                "rating": 4.7
             }
         ]
     },
     {
         "id": 5,
-        "chef_picture": "https://example.com/mehmetgurs.jpg",
+        "chef_picture": "https://i.ibb.co/W52GLyM/download-3.jpg",
         "chef_name": "Mehmet Gürs",
         "years_of_experience": 25,
         "num_recipes": 400,
         "likes": 500000,
         "recipes": [
+            
             {
+                "recipe_id": 50,
                 "recipe_name": "Balık Ekmek",
                 "ingredients": [
                     "1/2 lb fresh fish fillets (such as sea bass, sea bream, or mackerel)",
@@ -310,6 +345,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 51,
                 "recipe_name": "Pide",
                 "ingredients": [
                     "1 pound pizza dough",
@@ -327,6 +363,7 @@
                 "rating": 4.3
             },
             {
+                "recipe_id": 52,
                 "recipe_name": "Şakşuka",
                 "ingredients": [
                     "2 medium eggplants, peeled and diced",
@@ -342,18 +379,37 @@
                 ],
                 "cooking_method": "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat. Add eggplants and zucchinis, and cook for 10-12 minutes or until softened and lightly browned. Remove from the skillet and set aside. Add onion and red bell pepper to the same skillet, and cook for 5-7 minutes or until softened. Add minced garlic and cook for 1-2 minutes or until fragrant. Stir in diced tomatoes, tomato paste, paprika, cumin, and red pepper flakes. Return the eggplants and zuc",
                 "rating": 4.1
+            },
+            {
+                "recipe_id": 53,
+                "recipe_name": "Midye dolma",
+                "ingredients": [
+                    "500 grams mussels",
+                    "1 cup rice",
+                    "1 onion, chopped",
+                    "2 tablespoons olive oil",
+                    "1/2 bunch parsley",
+                    "1 tablespoon tomato paste",
+                    "1 tablespoon pepper paste",
+                    "1 teaspoon black pepper",
+                    "1 teaspoon salt",
+                    "1 lemon"
+                ],
+                "cooking_method": "Wash the mussels and drain them in a colander. Rinse the rice and drain. Chop the onion. Finely chop the parsley. Heat the olive oil in a saucepan and sauté the onions until they are soft. Add the tomato and pepper paste and stir. Add the rice and stir for 2-3 minutes. Add 2 cups of hot water, salt, and black pepper. Cook the rice until it absorbs all the water. Let the rice cool down. Add chopped parsley and mix. Fill each mussel with the rice mixture. Arrange the stuffed mussels in a large pot. Add enough water to cover the mussels. Cook over medium heat for 30-40 minutes. Serve with lemon wedges.",
+                "rating": 4.5
             }
         ]
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/aligungormus.jpg",
+        "chef_picture": "https://i.ibb.co/sbqRPXt/download-4.jpg",
         "chef_name": "Ali Güngörmüş",
         "years_of_experience": 18,
         "num_recipes": 220,
         "likes": 900000,
         "recipes": [
             {
+                "recipe_id": 60,
                 "recipe_name": "Midye dolma",
                 "ingredients": [
                     "500 grams mussels",
@@ -371,6 +427,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 61,
                 "recipe_name": "Fırında patates",
                 "ingredients": [
                     "6-8 medium potatoes",
@@ -385,6 +442,7 @@
                 "rating": 4.2
             },
             {
+                "recipe_id": 62,
                 "recipe_name": "Pide",
                 "ingredients": [
                     "1 pound pizza dough",
@@ -402,6 +460,7 @@
                 "rating": 4.3
             },
             {
+                "recipe_id": 63,
                 "recipe_name": "Şakşuka",
                 "ingredients": [
                     "2 medium eggplants, peeled and diced",
