@@ -9,6 +9,7 @@
         "recipes": [
             {
                 "recipe_id": 10,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Kunefe",
                 "ingredients": [
                     "1 package of kunefe dough",
@@ -23,6 +24,7 @@
             },
             {
                 "recipe_id": 11,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Pesto Pasta",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -39,6 +41,7 @@
             },
             {
                 "recipe_id": 12,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Şakşuka",
                 "ingredients": [
                     "2 large eggplants",
@@ -57,6 +60,7 @@
             },
             {
                 "recipe_id": 13,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Beyti Kebabı",
                 "ingredients": [
                     "1 pound ground lamb",
@@ -85,6 +89,7 @@
         "recipes": [
             {
                 "recipe_id": 20,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Tomahawk Steak",
                 "ingredients": [
                     "1 Tomahawk Steak (2-3 lbs)",
@@ -100,6 +105,7 @@
             },
             {
                 "recipe_id": 21,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Ottoman Steak",
                 "ingredients": [
                     "2 lb beef tenderloin",
@@ -117,6 +123,7 @@
             },
             {
                 "recipe_id": 22,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Salt Bae Burger",
                 "ingredients": [
                     "1 lb ground beef",
@@ -139,6 +146,7 @@
             },
             {
                 "recipe_id": 23,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Grilled Lamb Chops",
                 "ingredients": [
                     "6-8 lamb chops",
@@ -164,6 +172,7 @@
         "recipes": [
             {
                 "recipe_id": 30,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Lahmacun",
                 "ingredients": [
                     "1 pound ground lamb",
@@ -182,6 +191,7 @@
             },
             {
                 "recipe_id": 31,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Ispanaklı Börek",
                 "ingredients": [
                     "1 package phyllo dough",
@@ -199,6 +209,7 @@
             },
             {
                 "recipe_id": 32,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Mercimek Çorbası",
                 "ingredients": [
                     "1 cup red lentils",
@@ -216,6 +227,7 @@
             },
             {
                 "recipe_id": 33,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Karides Güveç Börek",
                 "ingredients": [
                     "1 package phyllo dough",
@@ -245,6 +257,7 @@
         "recipes": [
             {
                 "recipe_id": 40,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Balık Ekmek",
                 "ingredients": [
                     "1/2 lb fresh fish fillets (such as sea bass, sea bream, or mackerel)",
@@ -263,6 +276,7 @@
             },
             {
                 "recipe_id": 41,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Pide",
                 "ingredients": [
                     "1 pound pizza dough",
@@ -281,6 +295,7 @@
             },
             {
                 "recipe_id": 42,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Şakşuka",
                 "ingredients": [
                     "2 medium eggplants, peeled and diced",
@@ -299,6 +314,7 @@
             },
             {
                 "recipe_id": 43,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Beyti Kebabı",
                 "ingredients": [
                     "1 pound ground lamb",
@@ -328,6 +344,7 @@
             
             {
                 "recipe_id": 50,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Balık Ekmek",
                 "ingredients": [
                     "1/2 lb fresh fish fillets (such as sea bass, sea bream, or mackerel)",
@@ -346,6 +363,7 @@
             },
             {
                 "recipe_id": 51,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Pide",
                 "ingredients": [
                     "1 pound pizza dough",
@@ -364,6 +382,7 @@
             },
             {
                 "recipe_id": 52,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Şakşuka",
                 "ingredients": [
                     "2 medium eggplants, peeled and diced",
@@ -382,6 +401,7 @@
             },
             {
                 "recipe_id": 53,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Midye dolma",
                 "ingredients": [
                     "500 grams mussels",
@@ -410,6 +430,7 @@
         "recipes": [
             {
                 "recipe_id": 60,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Midye dolma",
                 "ingredients": [
                     "500 grams mussels",
@@ -428,6 +449,7 @@
             },
             {
                 "recipe_id": 61,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Fırında patates",
                 "ingredients": [
                     "6-8 medium potatoes",
@@ -443,6 +465,7 @@
             },
             {
                 "recipe_id": 62,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Pide",
                 "ingredients": [
                     "1 pound pizza dough",
@@ -461,6 +484,7 @@
             },
             {
                 "recipe_id": 63,
+                "recipe_img": "https://i.ibb.co/2Y6XPt1/download-5.jpg",
                 "recipe_name": "Şakşuka",
                 "ingredients": [
                     "2 medium eggplants, peeled and diced",
